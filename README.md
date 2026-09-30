@@ -17,7 +17,7 @@ Okara 的价值不在「79 个 prompt」，而在三个设计。本仓库完整�
 ### 方式一：`skills` CLI（vercel-labs/agent-skills）
 
 ```bash
-npx skills add <your-github-user>/ai-cmo-skills
+npx skills add isS/ai-cmo-skills
 ```
 
 ### 方式二：手动（Claude Code / Codex / CodeBuddy）
@@ -26,13 +26,13 @@ npx skills add <your-github-user>/ai-cmo-skills
 
 ```bash
 # Claude Code
-git clone https://github.com/<your-github-user>/ai-cmo-skills.git ~/.claude/skills/ai-cmo-skills
+git clone https://github.com/isS/ai-cmo-skills.git ~/.claude/skills/ai-cmo-skills
 
 # Codex
-git clone https://github.com/<your-github-user>/ai-cmo-skills.git ~/.codex/skills/ai-cmo-skills
+git clone https://github.com/isS/ai-cmo-skills.git ~/.codex/skills/ai-cmo-skills
 
 # CodeBuddy
-git clone https://github.com/<your-github-user>/ai-cmo-skills.git ~/.codebuddy/skills/ai-cmo-skills
+git clone https://github.com/isS/ai-cmo-skills.git ~/.codebuddy/skills/ai-cmo-skills
 ```
 
 ## 目录结构 / Structure
