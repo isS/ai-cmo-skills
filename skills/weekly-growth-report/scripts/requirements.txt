@@ -1,0 +1,4 @@
+# Only needed for `--fetch` (API) mode.
+# CSV mode uses the Python 3.10+ standard library and requires nothing here.
+google-api-python-client>=2.100.0
+google-auth>=2.20.0
